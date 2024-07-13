@@ -51,7 +51,6 @@ Security Catch(Secat)은 스미싱 문자를 감지하는 앱입니다
 <br>
 
 # 프로젝트 멤버 <img src = "https://github.com/Security-Catch/secat_front/blob/main/asset/mainLogo.png" width="40" height="40">
-## 풀스택
 
 <table width="300">
     <thead>
