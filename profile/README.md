@@ -30,8 +30,12 @@ Security Catch(Secat)은 스미싱 문자를 감지하는 앱입니다
 앱의 메인화면으로 메시지 검사하기와 메시지 신고하기 기능을 사용할 수 있습니다
 <br>
 <br>
+<img src = "https://github.com/user-attachments/assets/a30aec2f-5afe-4f15-a045-9ac07593b893" width="150" height="300">
 <img src = "https://github.com/Security-Catch/asset/blob/main/Secat_main.JPG" width="150" height="300">
 <img src = "https://github.com/Security-Catch/asset/blob/main/Secat_mainOff.JPG" width="150" height="300">
+<img src = "https://github.com/user-attachments/assets/f323c529-1b8d-4cae-9deb-df4852de975e" width="150" height="300">
+<img src = "https://github.com/user-attachments/assets/fc3e532b-4242-4004-9f3a-4358c636db1b" width="150" height="300">
+<img src = "https://github.com/user-attachments/assets/92ce770c-5e9b-44ee-acf9-50951094940a" width="150" height="300">
 <br>
 <br>
 
@@ -40,7 +44,8 @@ Security Catch(Secat)은 스미싱 문자를 감지하는 앱입니다
 <br>
 <br>
 <img src = "https://github.com/Security-Catch/asset/blob/main/Secat_reportMain.png" width="150" height="300">
-
+<img src = "https://github.com/user-attachments/assets/fad064b8-592f-4f36-b783-b0d138700332" width="150" height="300">
+<img src = "https://github.com/user-attachments/assets/fbb2d2f7-d48f-4a00-a7d2-8407057da2c4" width="150" height="300">
 <br>
 <br>
 
